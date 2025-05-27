@@ -1,6 +1,24 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+# Book-store-client-react-native-master
+Ứng dụng React Native quản lý đăng ký/đăng nhập cho BooStorePortal.
+
+## Hướng dẫn cài đặt và chạy ứng dụng
+
+### 1. Cài đặt dependencies
+
+Trước tiên, hãy chắc chắn bạn đã cài đặt [Node.js](https://nodejs.org/) và [npm](https://www.npmjs.com/) trên máy tính.
+
+Tải các dependencies cần thiết được khai báo trong `package.json` và `package-lock.json` bằng lệnh:
+
+```sh
+npm install
+
+Sau khi cài đặt xong dependencies, chạy ứng dụng trên Android emulator hoặc thiết bị thật bằng lệnh:
+
+```sh
+npx react-native run-android
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
