@@ -1,0 +1,15 @@
+// Gợi ý khi gõ chữ
+"editor.quickSuggestions": {
+  "other": true,
+  "comments": false,
+  "strings": true
+},
+
+// Gợi ý khi gõ ký tự đặc biệt (., :, ...)
+"editor.suggestOnTriggerCharacters": true,
+
+// Gợi ý dựa trên từ trong file khác
+"editor.wordBasedSuggestions": true,
+
+// Bật gợi ý thông minh dựa trên AI (nếu có Copilot)
+"github.copilot.inlineSuggest.enable": true
